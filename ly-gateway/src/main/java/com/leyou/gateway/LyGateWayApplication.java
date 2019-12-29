@@ -1,4 +1,4 @@
-package com.leyou;
+package com.leyou.gateway;
 
 
 import org.springframework.boot.SpringApplication;

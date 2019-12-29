@@ -11,7 +11,7 @@ eureka:
 zuul:
   prefix: /api #添加路由前缀
   routes:
-    goods-service: /goods/**
+    goods-service: /item/**
 hystrix:
   command:
     default:
